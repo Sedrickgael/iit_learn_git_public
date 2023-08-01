@@ -7,7 +7,7 @@ pip install -r requirements.txt
 python main.py
 print('all is ok')
 print('hello')
-print('je suis Aliman')
+print('je suis maldoqaums')
 
 x = int(input("entrer une valeur"))
 y = int(input("entrer une autre valeur"))
