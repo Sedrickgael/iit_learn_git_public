@@ -5,5 +5,6 @@
 ```
 pip install -r requirements.txt
 python main.py
+print('hello')
 
 ```
