@@ -8,4 +8,11 @@ python main.py
 print('all is ok')
 print('hello')
 
+x = int(input("entrer une valeur"))
+y = int(input("entrer une autre valeur"))
+
+som = x + y
+
+print(som)
+
 ```
