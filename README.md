@@ -9,4 +9,11 @@ print('all is ok')
 print('hello')
 print('je suis Aliman')
 
+x = int(input("entrer une valeur"))
+y = int(input("entrer une autre valeur"))
+
+som = x + y
+
+print(som)
+
 ```
